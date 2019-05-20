@@ -1,0 +1,5 @@
+El Estudiante Sam
+con número de cédula 190490
+se ha matriculado en el curso llamado Inglés Básico
+que tiene una duración de 20 horas
+y un valor de 120000 pesos

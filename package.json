@@ -1,0 +1,15 @@
+{
+  "name": "primeraentrega",
+  "version": "1.0.1",
+  "description": "Primera Entrega",
+  "main": "principal.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node principal"
+  },
+  "author": "Sammy Ariza sammyariza19@hotmail.com",
+  "license": "ISC"
+}
